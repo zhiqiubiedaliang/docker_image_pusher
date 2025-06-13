@@ -1,2 +1,2 @@
-
+busybox:latest
 #支持指定架构
